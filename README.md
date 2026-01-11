@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0d1e79&center=true&vCenter=true&width=600&lines=Jamal+Salama;Software+Engineer;Computer+Science+Student;Building+Real-World+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=a305a6&center=true&vCenter=true&width=600&lines=Jamal+Salama;Software+Engineer;Computer+Science+Student;Building+Real-World+Solutions" />
 
 <br/>
 
