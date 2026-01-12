@@ -31,22 +31,25 @@
 
 <h3> Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php" />
 </p>
 
 <h3>Frontend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwindcss,sass,angular,bootstrap,vuejs" />
 </p>
 
 <h3> Backend & Databases</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,nestjs" />
 </p>
-
-<h3> Tools & Platforms</h3>
+<h3> DevOps</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=amazonwebservices,docker,googlecloud,kubernetes,microsoftazure" />
+</p>
+<h3> Software & Framework & Other</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,photoshop,git,github,vscode," />
 </p>
 
 ---
@@ -59,17 +62,8 @@
 ---
 
 <h1> 🤝 Connect With Me</h1>
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.youtube.com/@TeachAxis">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<p align="left">
+<a href="https://twitter.com/j_amal_S_alama" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="j_amal_S_alama" height="30" width="40" /></a><a href="https://linkedin.com/in/jamal-salama-465521298" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="jamal-salama-465521298" height="30" width="40" /></a><a href="https://dribbble.com/jamal-salama" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="jamal-salama" height="30" width="40" /></a><a href="https://www.youtube.com/c/http://www.youtube.com/@Teach-Axis" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="http://www.youtube.com/@Teach-Axis" height="30" width="40" /></a><a href="https://www.leetcode.com/salama_Jamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="salama_Jamal" height="30" width="40" /></a><a href="https://discord.gg/PD3yM8XT" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="PD3yM8XT" height="30" width="40" /></a><a href="https://codepen.io/Salama-Jamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="Salama-Jamal" height="30" width="40" /></a><a href="https://instagram.com/dev_axiv_error_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="dev_axiv_error_" height="30" width="40" /></a><a href="https://www.behance.net/jamal-salama" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="jamal-salama" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/salamajamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="salamajamal" height="30" width="40" /></a><a href="https://dev.to/salamajamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="salamajamal" height="30" width="40" /></a><a href="https://www.codechef.com/users/salama_jamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="salama_jamal" height="30" width="40" /></a></p>
 
 ---
 ### ✍️ Random Dev Quote
