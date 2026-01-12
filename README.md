@@ -54,12 +54,14 @@
 
 ---
 
-<h1> 📊 GitHub Stats</h1>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=salama-jamal&theme=transparent" alt="salama-jamal" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=salama-jamal&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=salama-jamal&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salama-jamal&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=salama-jamal&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 ---
----
+
+
 
 <h1> 🤝 Connect With Me</h1>
 <p align="left">
